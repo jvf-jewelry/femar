@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1064925359160",
+    "firebase_url": "https://jvf-femar.firebaseio.com",
+    "project_id": "jvf-femar",
+    "storage_bucket": "jvf-femar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064925359160:android:ecfdfe203f936432",
+        "android_client_info": {
+          "package_name": "net.serendpt.femar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064925359160-mcvv8kttd32560cbdtlrvvj64c10aepe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpGhBk9Ss-Vrk3bIspanvf9KJQgK4YHrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064925359160-mcvv8kttd32560cbdtlrvvj64c10aepe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

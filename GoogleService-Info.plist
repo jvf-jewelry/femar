@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1064925359160-v6g3f0624qqsbh25fsaof1fnmuilb0fs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1064925359160-v6g3f0624qqsbh25fsaof1fnmuilb0fs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyClAV_13Bx-OBZlrfZr7WEBb35dh9G1DIA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1064925359160</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.serendpt.femar</string>
+	<key>PROJECT_ID</key>
+	<string>jvf-femar</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jvf-femar.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1064925359160:ios:ecfdfe203f936432</string>
+	<key>DATABASE_URL</key>
+	<string>https://jvf-femar.firebaseio.com</string>
+</dict>
+</plist>
